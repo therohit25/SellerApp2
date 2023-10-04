@@ -9,7 +9,7 @@ To run this project on your local machine, follow these steps:
 # Clone the repository:
 
 ```
-git clone https://github.com/yourusername/car-search-website.git
+git clone https://github.com/therohit25/SellerApp2.git
 ```
 
 Navigate to the project directory:
